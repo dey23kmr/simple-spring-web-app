@@ -23,7 +23,7 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String sendGreetings() {
-        return "Hello, World!";
+        return "Hello, Dev Kumar!";
     }
 
     @GetMapping("/home")
